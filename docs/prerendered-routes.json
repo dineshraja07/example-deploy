@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/My-first-app": {},
+    "/My-first-app/users": {},
+    "/My-first-app/users/result": {},
+    "/My-first-app/users/user": {}
+  }
+}
